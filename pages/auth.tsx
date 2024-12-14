@@ -4,8 +4,6 @@ import Input from '../components/Input';
 import axios from 'axios';
 import { signIn } from 'next-auth/react';
 
-import { FcGoogle } from 'react-icons/fc';
-import { FaGithub } from 'react-icons/fa';
 import AuthFooter from '../components/AuthFooter';
 import Link from 'next/link';
 import DisclaimerModal from '../components/DisclaimerModal';
