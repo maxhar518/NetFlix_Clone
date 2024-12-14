@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import Billboard from '../components/Billboard';
 import InfoModal from '../components/InfoModal';
 import useInfoModal from '../hooks/useInfoModal';
-import Movielist from '../components/Movielist';
+import Movielist from '../components/MovieList';
 import useMovieList from '../hooks/useMovieList';
 import useFavourites from '../hooks/useFavourites';
 
